@@ -45,7 +45,7 @@ img {
 
 /* Hero Section */
 header.hero {
-  background: url(../assets/hero-bg.jpg) no-repeat center center fixed;
+  background: url(../assets/michael-hero.jpg) no-repeat left center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
